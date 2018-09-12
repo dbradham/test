@@ -1,0 +1,12 @@
+https://toolbox.google.com/datasetsearch/search?query=health&docid=eYwU4KIMSh2fwpQlAAAAAA%3D%3D
+Health Nutrition and Population Statistics: health, nutrition and population data from the world bank spanning the years 1960 through 2016.
+
+https://toolbox.google.com/datasetsearch/search?query=income%20global%20cities&docid=Aj8dpG6teBtupRx0AAAAAA%3D%3D
+Global City Data: has 45 different indicators for about 75 of the largest cities. Indicators include GDP per capita, poverty, transportation, and others.
+(This data is currently in a .xls but we plan to convert it to a .csv) We looked for a more robust dataset but chose this one because of the large number of indicators.
+
+https://toolbox.google.com/datasetsearch/search?query=education%20statistics
+Education Statistics: Query holds over 4,000 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, population, and expenditures.
+
+We decided to use a health dataset and a dataset that had indicators of economic status to see if there were connections, and how profound they are, between health and income at a macro level.
+We also thought it would be interesting to see if education had a dramatic effect on nutrition and/or income.
