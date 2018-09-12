@@ -1,3 +1,3 @@
-Names: David Bradham - Khalid Alkhatid
+Names: David Bradham - Khalid Alkhatib
 EIDs: dmb3767 - ka27266
-Emails: davebradham@gmail.com - alkhatidkhalid@utexas.edu
+Emails: davebradham@gmail.com - alkhatibkhalid@utexas.edu
